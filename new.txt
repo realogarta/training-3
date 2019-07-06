@@ -1,0 +1,2 @@
+This is a new GIT training
+This is my second example
