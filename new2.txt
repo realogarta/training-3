@@ -1,2 +1,2 @@
 This is my second example
-diff check, on a branch
+New updates
