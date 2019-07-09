@@ -1,3 +1,2 @@
 This is a new GIT training
-This is my second example
-Third example
+Application 3.0
